@@ -10,6 +10,7 @@ namespace Demo
     {
         static void Main(string[] args)
         {
+ek hình như là phải code như này á bà ;-;
         }
     }
 }
